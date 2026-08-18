@@ -1,106 +1,106 @@
 rank,city,state,state_abbr,county,score,solar_score,seasonal_score,hazard_resilience_score,affordability_score,annual_solar_kwh_10kw,winter_to_average_ratio,electricity_rate_cents_kwh,fema_disasters_20yr,data_status
-1,Las Vegas,Nevada,NV,Clark County,88,95,96,75,87,17583,0.778,15,6,starter estimate
-2,Reno,Nevada,NV,Washoe County,86,91,91,75,87,17247,0.752,15,6,starter estimate
-3,Boise,Idaho,ID,Ada County,86,85,86,75,100,16838,0.721,12,6,starter estimate
-4,Albuquerque,New Mexico,NM,Bernalillo County,85,86,98,71,87,16892,0.787,15,7,starter estimate
-5,Henderson,Nevada,NV,Clark County,85,85,96,75,87,16796,0.779,15,6,starter estimate
-6,Salt Lake City,Utah,UT,Salt Lake County,84,79,90,75,100,16324,0.743,12,6,starter estimate
-7,Phoenix,Arizona,AZ,Maricopa County,83,87,100,66,83,16945,0.799,16,8,starter estimate
-8,Tucson,Arizona,AZ,Pima County,83,85,100,66,83,16822,0.809,16,8,starter estimate
-9,Mesa,Arizona,AZ,Maricopa County,83,87,100,66,83,16942,0.8,16,8,starter estimate
-10,Chandler,Arizona,AZ,Maricopa County,83,87,100,66,83,16931,0.801,16,8,starter estimate
-11,Scottsdale,Arizona,AZ,Maricopa County,83,87,100,66,83,16949,0.799,16,8,starter estimate
-12,Louisville,Kentucky,KY,Jefferson County,79,63,93,75,96,15075,0.762,13,6,starter estimate
-13,El Paso,Texas,TX,El Paso County,77,85,100,41,87,16776,0.813,15,14,starter estimate
-14,Cheyenne,Wyoming,WY,Laramie County,77,60,89,75,100,14786,0.74,12,6,starter estimate
-15,Indianapolis,Indiana,IN,Marion County,76,62,91,75,87,14923,0.751,15,6,starter estimate
-16,Seattle,Washington,WA,King County,76,68,80,66,100,15439,0.69,12,8,starter estimate
-17,Portland,Oregon,OR,Multnomah County,76,71,83,66,91,15648,0.706,14,8,starter estimate
-18,Lexington,Kentucky,KY,Fayette County,76,55,93,75,96,14396,0.764,13,6,starter estimate
-19,Spokane,Washington,WA,Spokane County,76,68,80,66,100,15434,0.69,12,8,starter estimate
-20,Memphis,Tennessee,TN,Shelby County,75,67,98,50,96,15385,0.786,13,12,starter estimate
-21,Fort Wayne,Indiana,IN,Allen County,75,60,89,75,87,14792,0.741,15,6,starter estimate
-22,Little Rock,Arkansas,AR,Pulaski County,75,68,98,50,96,15425,0.789,13,12,starter estimate
-23,Billings,Montana,MT,Yellowstone County,75,60,83,75,91,14822,0.704,14,6,starter estimate
-24,Nashville,Tennessee,TN,Davidson County,74,66,96,50,96,15284,0.779,13,12,starter estimate
-25,Sioux Falls,South Dakota,SD,Minnehaha County,74,57,86,75,91,14546,0.721,14,6,starter estimate
-26,Charleston,West Virginia,WV,Kanawha County,74,55,93,75,87,14365,0.762,15,6,starter estimate
-27,Houston,Texas,TX,Harris County,73,71,100,41,87,15676,0.826,15,14,starter estimate
-28,Austin,Texas,TX,Travis County,73,72,100,41,87,15727,0.824,15,14,starter estimate
-29,Denver,Colorado,CO,Denver County,73,62,91,62,87,14926,0.751,15,9,starter estimate
-30,Omaha,Nebraska,NE,Douglas County,73,60,89,58,100,14774,0.739,12,10,starter estimate
-31,Colorado Springs,Colorado,CO,El Paso County,73,63,92,62,87,15017,0.758,15,9,starter estimate
-32,Aurora,Colorado,CO,Arapahoe County,73,62,91,62,87,14927,0.751,15,9,starter estimate
-33,Lincoln,Nebraska,NE,Lancaster County,73,60,90,58,100,14819,0.743,12,10,starter estimate
-34,Chicago,Illinois,IL,Cook County,72,59,88,75,74,14712,0.734,18,6,starter estimate
-35,San Antonio,Texas,TX,Bexar County,72,71,100,41,87,15642,0.826,15,14,starter estimate
-36,Kansas City,Missouri,MO,Jackson County,72,62,92,54,91,14990,0.756,14,11,starter estimate
-37,Virginia Beach,Virginia,VA,Virginia Beach City,72,56,95,58,91,14515,0.773,14,10,starter estimate
-38,Wichita,Kansas,KS,Sedgwick County,72,64,94,54,87,15131,0.767,15,11,starter estimate
-39,Corpus Christi,Texas,TX,Nueces County,72,69,100,41,87,15480,0.826,15,14,starter estimate
-40,St. Louis,Missouri,MO,St. Louis City,72,63,93,54,91,15037,0.759,14,11,starter estimate
-41,Laredo,Texas,TX,Webb County,72,68,100,41,87,15450,0.826,15,14,starter estimate
-42,Lubbock,Texas,TX,Lubbock County,72,68,100,41,87,15458,0.798,15,14,starter estimate
-43,Des Moines,Iowa,IA,Polk County,72,59,88,62,91,14741,0.737,14,9,starter estimate
-44,Dallas,Texas,TX,Dallas County,71,67,100,41,87,15378,0.805,15,14,starter estimate
-45,Fort Worth,Texas,TX,Tarrant County,71,67,100,41,87,15376,0.805,15,14,starter estimate
-46,Oklahoma City,Oklahoma,OK,Oklahoma County,71,67,97,37,96,15353,0.784,13,15,starter estimate
-47,Milwaukee,Wisconsin,WI,Milwaukee County,71,57,86,75,74,14596,0.725,18,6,starter estimate
-48,Atlanta,Georgia,GA,Fulton County,71,60,99,50,87,14775,0.797,15,12,starter estimate
-49,Tulsa,Oklahoma,OK,Tulsa County,71,66,96,37,96,15285,0.779,13,15,starter estimate
-50,Arlington,Texas,TX,Tarrant County,71,67,100,41,87,15374,0.805,15,14,starter estimate
-51,Plano,Texas,TX,Collin County,71,68,100,41,87,15402,0.803,15,14,starter estimate
-52,Madison,Wisconsin,WI,Dane County,71,57,86,75,74,14593,0.725,18,6,starter estimate
-53,Richmond,Virginia,VA,Richmond City,71,56,94,58,91,14446,0.768,14,10,starter estimate
-54,Birmingham,Alabama,AL,Jefferson County,71,68,100,41,83,15452,0.799,16,14,starter estimate
-55,Knoxville,Tennessee,TN,Knox County,71,58,96,50,96,14604,0.78,13,12,starter estimate
-56,Jackson,Mississippi,MS,Hinds County,71,67,100,37,91,15330,0.808,14,15,starter estimate
-57,Charlotte,North Carolina,NC,Mecklenburg County,70,58,97,45,91,14677,0.786,14,13,starter estimate
-58,Washington,District of Columbia,DC,District of Columbia,70,54,92,75,70,14309,0.757,19,6,starter estimate
-59,Savannah,Georgia,GA,Chatham County,70,58,100,50,87,14608,0.81,15,12,starter estimate
-60,Wilmington,Delaware,DE,New Castle County,70,53,91,75,74,14226,0.751,18,6,starter estimate
-61,Los Angeles,California,CA,Los Angeles County,69,97,99,50,13,17795,0.795,32,12,starter estimate
-62,San Diego,California,CA,San Diego County,69,96,100,50,13,17672,0.805,32,12,starter estimate
-63,Columbus,Ohio,OH,Franklin County,69,53,91,62,83,14204,0.749,16,9,starter estimate
-64,Raleigh,North Carolina,NC,Wake County,69,58,97,45,91,14622,0.781,14,13,starter estimate
-65,New Orleans,Louisiana,LA,Orleans Parish,69,71,100,20,96,15695,0.826,13,19,starter estimate
-66,Anaheim,California,CA,Orange County,69,97,99,50,13,17784,0.796,32,12,starter estimate
-67,Santa Ana,California,CA,Orange County,69,97,99,50,13,17775,0.797,32,12,starter estimate
-68,Riverside,California,CA,Riverside County,69,97,99,50,13,17798,0.795,32,12,starter estimate
-69,Cincinnati,Ohio,OH,Hamilton County,69,54,92,62,83,14290,0.756,16,9,starter estimate
-70,Greensboro,North Carolina,NC,Guilford County,69,57,96,45,91,14593,0.779,14,13,starter estimate
-71,Irvine,California,CA,Orange County,69,97,100,50,13,17768,0.798,32,12,starter estimate
-72,Durham,North Carolina,NC,Durham County,69,58,96,45,91,14601,0.78,14,13,starter estimate
-73,Chula Vista,California,CA,San Diego County,69,96,100,50,13,17664,0.806,32,12,starter estimate
-74,Charleston,South Carolina,SC,Charleston County,69,58,100,45,87,14678,0.805,15,13,starter estimate
-75,Fargo,North Dakota,ND,Cass County,69,40,81,75,100,13212,0.696,12,6,starter estimate
-76,Cleveland,Ohio,OH,Cuyahoga County,68,51,89,62,83,14050,0.737,16,9,starter estimate
-77,Bakersfield,California,CA,Kern County,68,96,97,50,13,17663,0.785,32,12,starter estimate
-78,San Jose,California,CA,Santa Clara County,67,93,94,50,13,17466,0.769,32,12,starter estimate
-79,Detroit,Michigan,MI,Wayne County,67,50,87,75,70,13967,0.731,19,6,starter estimate
-80,Fresno,California,CA,Fresno County,67,94,95,50,13,17526,0.774,32,12,starter estimate
-81,Minneapolis,Minnesota,MN,Hennepin County,67,43,84,75,83,13402,0.71,16,6,starter estimate
-82,St. Paul,Minnesota,MN,Ramsey County,67,43,84,75,83,13405,0.711,16,6,starter estimate
-83,Toledo,Ohio,OH,Lucas County,67,50,88,62,83,14035,0.736,16,9,starter estimate
-84,Philadelphia,Pennsylvania,PA,Philadelphia County,66,53,91,62,70,14205,0.749,19,9,starter estimate
-85,Jacksonville,Florida,FL,Duval County,66,63,100,24,87,15033,0.824,15,18,starter estimate
-86,Baltimore,Maryland,MD,Baltimore City,66,53,92,62,70,14271,0.754,19,9,starter estimate
-87,Sacramento,California,CA,Sacramento County,66,92,93,50,13,17342,0.76,32,12,starter estimate
-88,Oakland,California,CA,Alameda County,66,93,94,50,13,17420,0.766,32,12,starter estimate
-89,Honolulu,Hawaii,HI,Honolulu County,66,82,100,71,0,16531,0.826,42,7,starter estimate
-90,Stockton,California,CA,San Joaquin County,66,93,94,50,13,17404,0.765,32,12,starter estimate
-91,Pittsburgh,Pennsylvania,PA,Allegheny County,66,52,90,62,70,14156,0.745,19,9,starter estimate
-92,Orlando,Florida,FL,Orange County,65,61,100,24,87,14854,0.826,15,18,starter estimate
-93,Miami,Florida,FL,Miami-Dade County,64,57,100,24,87,14576,0.826,15,18,starter estimate
-94,Tampa,Florida,FL,Hillsborough County,64,60,100,24,87,14795,0.826,15,18,starter estimate
-95,St. Petersburg,Florida,FL,Pinellas County,64,60,100,24,87,14777,0.826,15,18,starter estimate
-96,Newark,New Jersey,NJ,Essex County,62,52,90,58,57,14126,0.743,22,10,starter estimate
-97,Jersey City,New Jersey,NJ,Hudson County,62,52,90,58,57,14128,0.743,22,10,starter estimate
-98,New York,New York,NY,New York County,60,52,90,62,43,14129,0.743,25,9,starter estimate
-99,Buffalo,New York,NY,Erie County,59,49,87,62,43,13911,0.727,25,9,starter estimate
-100,Portland,Maine,ME,Cumberland County,59,48,86,66,43,13834,0.721,25,8,starter estimate
-101,Manchester,New Hampshire,NH,Hillsborough County,59,49,86,66,39,13900,0.726,26,8,starter estimate
-102,Burlington,Vermont,VT,Chittenden County,57,34,84,66,57,12752,0.714,22,8,starter estimate
-103,Providence,Rhode Island,RI,Providence County,56,50,88,66,22,14018,0.735,30,8,starter estimate
-104,Boston,Massachusetts,MA,Suffolk County,55,50,87,66,17,13964,0.731,31,8,starter estimate
-105,Anchorage,Alaska,AK,Anchorage Municipality,55,51,61,62,48,14078,0.585,24,9,starter estimate
+1,Las Vegas,Nevada,NV,Clark County,91,95,96,83,87,17583,0.779,15,4,refreshed from available public sources
+2,Boise,Idaho,ID,Ada County,89,85,86,87,100,16838,0.721,12,3,refreshed from available public sources
+3,Henderson,Nevada,NV,Clark County,87,85,96,83,87,16796,0.779,15,4,refreshed from available public sources
+4,Tucson,Arizona,AZ,Pima County,87,85,100,83,83,16822,0.809,16,4,refreshed from available public sources
+5,Albuquerque,New Mexico,NM,Bernalillo County,86,86,98,75,87,16892,0.787,15,6,refreshed from available public sources
+6,El Paso,Texas,TX,El Paso County,83,85,100,62,87,16776,0.813,15,9,refreshed from available public sources
+7,Salt Lake City,Utah,UT,Salt Lake County,82,79,90,66,100,16324,0.743,12,8,refreshed from available public sources
+8,Cheyenne,Wyoming,WY,Laramie County,81,60,89,87,100,14786,0.74,12,3,refreshed from available public sources
+9,Phoenix,Arizona,AZ,Maricopa County,80,87,100,54,83,16945,0.8,16,11,refreshed from available public sources
+10,Mesa,Arizona,AZ,Maricopa County,80,87,100,54,83,16942,0.8,16,11,refreshed from available public sources
+11,Chandler,Arizona,AZ,Maricopa County,80,87,100,54,83,16931,0.801,16,11,refreshed from available public sources
+12,Scottsdale,Arizona,AZ,Maricopa County,80,87,100,54,83,16949,0.799,16,11,refreshed from available public sources
+13,Portland,Oregon,OR,Multnomah County,77,71,83,71,91,15648,0.706,14,7,refreshed from available public sources
+14,Denver,Colorado,CO,Denver County,76,62,91,75,87,14926,0.751,15,6,refreshed from available public sources
+15,Aurora,Colorado,CO,Arapahoe County,76,62,91,75,87,14927,0.751,15,6,refreshed from available public sources
+16,Wichita,Kansas,KS,Sedgwick County,76,64,94,71,87,15131,0.767,15,7,refreshed from available public sources
+17,Plano,Texas,TX,Collin County,76,68,100,58,87,15402,0.802,15,10,refreshed from available public sources
+18,Indianapolis,Indiana,IN,Marion County,75,62,91,71,87,14923,0.751,15,7,refreshed from available public sources
+19,Lubbock,Texas,TX,Lubbock County,75,68,100,54,87,15458,0.799,15,11,refreshed from available public sources
+20,Lincoln,Nebraska,NE,Lancaster County,73,60,90,58,100,14819,0.743,12,10,refreshed from available public sources
+21,Kansas City,Missouri,MO,Jackson County,73,62,92,58,91,14990,0.756,14,10,refreshed from available public sources
+22,Virginia Beach,Virginia,VA,Virginia Beach City,73,56,95,62,91,14515,0.773,14,9,refreshed from available public sources
+23,Charlotte,North Carolina,NC,Mecklenburg County,73,58,97,58,91,14677,0.786,14,10,refreshed from available public sources
+24,Toledo,Ohio,OH,Lucas County,73,50,88,83,83,14035,0.736,16,4,refreshed from available public sources
+25,Fort Wayne,Indiana,IN,Allen County,72,60,89,62,87,14792,0.741,15,9,refreshed from available public sources
+26,Fort Worth,Texas,TX,Tarrant County,72,67,100,45,87,15376,0.805,15,13,refreshed from available public sources
+27,Atlanta,Georgia,GA,Fulton County,72,60,100,54,87,14775,0.798,15,11,refreshed from available public sources
+28,Arlington,Texas,TX,Tarrant County,72,67,100,45,87,15374,0.805,15,13,refreshed from available public sources
+29,Columbus,Ohio,OH,Franklin County,72,53,91,75,83,14204,0.749,16,6,refreshed from available public sources
+30,Cincinnati,Ohio,OH,Hamilton County,72,54,92,75,83,14290,0.756,16,6,refreshed from available public sources
+31,Cleveland,Ohio,OH,Cuyahoga County,72,51,89,79,83,14050,0.737,16,5,refreshed from available public sources
+32,Sioux Falls,South Dakota,SD,Minnehaha County,71,57,86,62,91,14546,0.722,14,9,refreshed from available public sources
+33,Colorado Springs,Colorado,CO,El Paso County,71,63,92,54,87,15017,0.758,15,11,refreshed from available public sources
+34,Des Moines,Iowa,IA,Polk County,71,59,88,58,91,14741,0.737,14,10,refreshed from available public sources
+35,Dallas,Texas,TX,Dallas County,71,67,100,41,87,15378,0.805,15,14,refreshed from available public sources
+36,Knoxville,Tennessee,TN,Knox County,71,58,96,50,96,14604,0.78,13,12,refreshed from available public sources
+37,Billings,Montana,MT,Yellowstone County,70,60,83,58,91,14822,0.704,14,10,refreshed from available public sources
+38,Laredo,Texas,TX,Webb County,70,68,100,37,87,15450,0.826,15,15,refreshed from available public sources
+39,Madison,Wisconsin,WI,Dane County,70,57,86,71,74,14593,0.725,18,7,refreshed from available public sources
+40,Richmond,Virginia,VA,Richmond City,70,56,94,54,91,14446,0.768,14,11,refreshed from available public sources
+41,Birmingham,Alabama,AL,Jefferson County,70,68,100,37,83,15452,0.799,16,15,refreshed from available public sources
+42,Jackson,Mississippi,MS,Hinds County,70,67,100,33,91,15330,0.809,14,16,refreshed from available public sources
+43,Washington,District of Columbia,DC,District of Columbia,70,54,92,75,70,14309,0.757,19,6,refreshed from available public sources
+44,Savannah,Georgia,GA,Chatham County,70,58,100,50,87,14608,0.81,15,12,refreshed from available public sources
+45,Raleigh,North Carolina,NC,Wake County,70,58,97,50,91,14622,0.781,14,12,refreshed from available public sources
+46,Durham,North Carolina,NC,Durham County,70,58,96,50,91,14601,0.78,14,12,refreshed from available public sources
+47,Pittsburgh,Pennsylvania,PA,Allegheny County,70,52,90,79,70,14156,0.745,19,5,refreshed from available public sources
+48,Seattle,Washington,WA,King County,69,68,80,37,100,15439,0.69,12,15,refreshed from available public sources
+49,Lexington,Kentucky,KY,Fayette County,69,55,94,50,96,14396,0.764,13,12,refreshed from available public sources
+50,Little Rock,Arkansas,AR,Pulaski County,69,68,98,24,96,15425,0.79,13,18,refreshed from available public sources
+51,Greensboro,North Carolina,NC,Guilford County,69,57,96,45,91,14593,0.779,14,13,refreshed from available public sources
+52,Detroit,Michigan,MI,Wayne County,69,50,87,79,70,13967,0.731,19,5,refreshed from available public sources
+53,Fresno,California,CA,Fresno County,69,94,95,58,13,17526,0.774,32,10,refreshed from available public sources
+54,Stockton,California,CA,San Joaquin County,69,93,94,62,13,17404,0.765,32,9,refreshed from available public sources
+55,Louisville,Kentucky,KY,Jefferson County,68,63,93,33,96,15075,0.763,13,16,refreshed from available public sources
+56,Nashville,Tennessee,TN,Davidson County,68,66,96,24,96,15284,0.779,13,18,refreshed from available public sources
+57,Chicago,Illinois,IL,Cook County,68,59,88,58,74,14712,0.734,18,10,refreshed from available public sources
+58,Milwaukee,Wisconsin,WI,Milwaukee County,68,57,86,62,74,14596,0.725,18,9,refreshed from available public sources
+59,Wilmington,Delaware,DE,New Castle County,68,53,91,66,74,14226,0.751,18,8,refreshed from available public sources
+60,Sacramento,California,CA,Sacramento County,68,92,93,58,13,17342,0.76,32,10,refreshed from available public sources
+61,Oakland,California,CA,Alameda County,68,93,94,58,13,17420,0.766,32,10,refreshed from available public sources
+62,Reno,Nevada,NV,Washoe County,67,91,91,0,87,17247,0.753,15,36,refreshed from available public sources
+63,Corpus Christi,Texas,TX,Nueces County,67,68,100,24,87,15480,0.826,15,18,refreshed from available public sources
+64,San Jose,California,CA,Santa Clara County,67,93,94,50,13,17466,0.769,32,12,refreshed from available public sources
+65,Memphis,Tennessee,TN,Shelby County,66,67,97,16,96,15385,0.786,13,20,refreshed from available public sources
+66,Omaha,Nebraska,NE,Douglas County,66,60,89,29,100,14774,0.739,12,17,refreshed from available public sources
+67,San Antonio,Texas,TX,Bexar County,66,71,100,16,87,15642,0.826,15,20,refreshed from available public sources
+68,St. Paul,Minnesota,MN,Ramsey County,66,43,84,71,83,13405,0.711,16,7,refreshed from available public sources
+69,Miami,Florida,FL,Miami-Dade County,66,57,100,33,87,14576,0.826,15,16,refreshed from available public sources
+70,Houston,Texas,TX,Harris County,65,71,100,12,87,15676,0.826,15,21,refreshed from available public sources
+71,Minneapolis,Minnesota,MN,Hennepin County,65,43,84,66,83,13402,0.71,16,8,refreshed from available public sources
+72,Tulsa,Oklahoma,OK,Tulsa County,64,66,96,12,96,15285,0.779,13,21,refreshed from available public sources
+73,New Orleans,Louisiana,LA,Orleans Parish,64,71,100,0,96,15695,0.827,13,29,refreshed from available public sources
+74,Charleston,West Virginia,WV,Kanawha County,63,55,93,33,87,14365,0.762,15,16,refreshed from available public sources
+75,Charleston,South Carolina,SC,Charleston County,63,58,100,20,87,14678,0.805,15,19,refreshed from available public sources
+76,Philadelphia,Pennsylvania,PA,Philadelphia County,63,53,91,50,70,14205,0.749,19,12,refreshed from available public sources
+77,Orlando,Florida,FL,Orange County,63,61,100,16,87,14854,0.827,15,20,refreshed from available public sources
+78,Spokane,Washington,WA,Spokane County,62,68,80,8,100,15434,0.69,12,22,refreshed from available public sources
+79,Austin,Texas,TX,Travis County,62,72,100,0,87,15727,0.824,15,26,refreshed from available public sources
+80,Oklahoma City,Oklahoma,OK,Oklahoma County,62,67,97,0,96,15353,0.784,13,35,refreshed from available public sources
+81,St. Louis,Missouri,MO,St. Louis City,61,63,93,8,91,15037,0.76,14,22,refreshed from available public sources
+82,Baltimore,Maryland,MD,Baltimore City,61,53,92,41,70,14271,0.754,19,14,refreshed from available public sources
+83,Jersey City,New Jersey,NJ,Hudson County,61,52,90,54,57,14128,0.743,22,11,refreshed from available public sources
+84,New York,New York,NY,New York County,60,52,90,62,43,14129,0.743,25,9,refreshed from available public sources
+85,Anaheim,California,CA,Orange County,59,97,99,12,13,17784,0.796,32,21,refreshed from available public sources
+86,Santa Ana,California,CA,Orange County,59,97,100,12,13,17775,0.797,32,21,refreshed from available public sources
+87,Irvine,California,CA,Orange County,59,97,100,12,13,17768,0.798,32,21,refreshed from available public sources
+88,Jacksonville,Florida,FL,Duval County,59,63,100,0,87,15033,0.824,15,24,refreshed from available public sources
+89,Honolulu,Hawaii,HI,Honolulu County,59,82,100,41,0,16531,0.826,42,14,refreshed from available public sources
+90,Tampa,Florida,FL,Hillsborough County,59,60,100,3,87,14795,0.827,15,23,refreshed from available public sources
+91,St. Petersburg,Florida,FL,Pinellas County,59,60,100,3,87,14777,0.826,15,23,refreshed from available public sources
+92,Manchester,New Hampshire,NH,Hillsborough County,59,49,87,66,39,13900,0.726,26,8,refreshed from available public sources
+93,Los Angeles,California,CA,Los Angeles County,57,97,99,0,13,17795,0.795,32,54,refreshed from available public sources
+94,Riverside,California,CA,Riverside County,57,97,99,0,13,17798,0.796,32,32,refreshed from available public sources
+95,Fargo,North Dakota,ND,Cass County,57,40,81,29,100,13212,0.696,12,17,refreshed from available public sources
+96,Bakersfield,California,CA,Kern County,57,96,97,8,13,17663,0.785,32,22,refreshed from available public sources
+97,Newark,New Jersey,NJ,Essex County,57,52,90,37,57,14126,0.743,22,15,refreshed from available public sources
+98,Buffalo,New York,NY,Erie County,57,49,87,54,43,13911,0.726,25,11,refreshed from available public sources
+99,San Diego,California,CA,San Diego County,56,96,100,0,13,17672,0.805,32,24,refreshed from available public sources
+100,Chula Vista,California,CA,San Diego County,56,96,100,0,13,17664,0.806,32,24,refreshed from available public sources
+101,Providence,Rhode Island,RI,Providence County,56,50,88,66,22,14018,0.735,30,8,refreshed from available public sources
+102,Anchorage,Alaska,AK,Anchorage Municipality,55,51,61,62,48,14078,0.585,24,9,refreshed from available public sources
+103,Portland,Maine,ME,Cumberland County,54,48,86,45,43,13834,0.721,25,13,refreshed from available public sources
+104,Boston,Massachusetts,MA,Suffolk County,45,50,87,29,17,13964,0.73,31,17,refreshed from available public sources
+105,Burlington,Vermont,VT,Chittenden County,43,34,84,12,57,12752,0.714,22,21,refreshed from available public sources
