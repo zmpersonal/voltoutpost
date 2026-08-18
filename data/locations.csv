@@ -1,0 +1,106 @@
+city,state_abbr,state,county,lat,lon
+New York,NY,New York,New York County,40.7128,-74.006
+Los Angeles,CA,California,Los Angeles County,34.0522,-118.2437
+Chicago,IL,Illinois,Cook County,41.8781,-87.6298
+Houston,TX,Texas,Harris County,29.7604,-95.3698
+Phoenix,AZ,Arizona,Maricopa County,33.4484,-112.074
+Philadelphia,PA,Pennsylvania,Philadelphia County,39.9526,-75.1652
+San Antonio,TX,Texas,Bexar County,29.4241,-98.4936
+San Diego,CA,California,San Diego County,32.7157,-117.1611
+Dallas,TX,Texas,Dallas County,32.7767,-96.797
+San Jose,CA,California,Santa Clara County,37.3382,-121.8863
+Austin,TX,Texas,Travis County,30.2672,-97.7431
+Jacksonville,FL,Florida,Duval County,30.3322,-81.6557
+Fort Worth,TX,Texas,Tarrant County,32.7555,-97.3308
+Columbus,OH,Ohio,Franklin County,39.9612,-82.9988
+Indianapolis,IN,Indiana,Marion County,39.7684,-86.1581
+Charlotte,NC,North Carolina,Mecklenburg County,35.2271,-80.8431
+Seattle,WA,Washington,King County,47.6062,-122.3321
+Denver,CO,Colorado,Denver County,39.7392,-104.9903
+Washington,DC,District of Columbia,District of Columbia,38.9072,-77.0369
+Nashville,TN,Tennessee,Davidson County,36.1627,-86.7816
+Oklahoma City,OK,Oklahoma,Oklahoma County,35.4676,-97.5164
+El Paso,TX,Texas,El Paso County,31.7619,-106.485
+Boston,MA,Massachusetts,Suffolk County,42.3601,-71.0589
+Portland,OR,Oregon,Multnomah County,45.5152,-122.6784
+Las Vegas,NV,Nevada,Clark County,36.1699,-115.1398
+Detroit,MI,Michigan,Wayne County,42.3314,-83.0458
+Memphis,TN,Tennessee,Shelby County,35.1495,-90.049
+Louisville,KY,Kentucky,Jefferson County,38.2527,-85.7585
+Baltimore,MD,Maryland,Baltimore City,39.2904,-76.6122
+Milwaukee,WI,Wisconsin,Milwaukee County,43.0389,-87.9065
+Albuquerque,NM,New Mexico,Bernalillo County,35.0844,-106.6504
+Tucson,AZ,Arizona,Pima County,32.2226,-110.9747
+Fresno,CA,California,Fresno County,36.7378,-119.7871
+Sacramento,CA,California,Sacramento County,38.5816,-121.4944
+Mesa,AZ,Arizona,Maricopa County,33.4152,-111.8315
+Kansas City,MO,Missouri,Jackson County,39.0997,-94.5786
+Atlanta,GA,Georgia,Fulton County,33.749,-84.388
+Omaha,NE,Nebraska,Douglas County,41.2565,-95.9345
+Colorado Springs,CO,Colorado,El Paso County,38.8339,-104.8214
+Raleigh,NC,North Carolina,Wake County,35.7796,-78.6382
+Miami,FL,Florida,Miami-Dade County,25.7617,-80.1918
+Virginia Beach,VA,Virginia,Virginia Beach City,36.8529,-75.978
+Oakland,CA,California,Alameda County,37.8044,-122.2711
+Minneapolis,MN,Minnesota,Hennepin County,44.9778,-93.265
+Tulsa,OK,Oklahoma,Tulsa County,36.154,-95.9928
+Tampa,FL,Florida,Hillsborough County,27.9506,-82.4572
+Arlington,TX,Texas,Tarrant County,32.7357,-97.1081
+New Orleans,LA,Louisiana,Orleans Parish,29.9511,-90.0715
+Wichita,KS,Kansas,Sedgwick County,37.6872,-97.3301
+Cleveland,OH,Ohio,Cuyahoga County,41.4993,-81.6944
+Bakersfield,CA,California,Kern County,35.3733,-119.0187
+Aurora,CO,Colorado,Arapahoe County,39.7294,-104.8319
+Anaheim,CA,California,Orange County,33.8366,-117.9143
+Honolulu,HI,Hawaii,Honolulu County,21.3099,-157.8581
+Santa Ana,CA,California,Orange County,33.7455,-117.8677
+Riverside,CA,California,Riverside County,33.9806,-117.3755
+Corpus Christi,TX,Texas,Nueces County,27.8006,-97.3964
+Lexington,KY,Kentucky,Fayette County,38.0406,-84.5037
+Stockton,CA,California,San Joaquin County,37.9577,-121.2908
+Henderson,NV,Nevada,Clark County,36.0395,-114.9817
+St. Paul,MN,Minnesota,Ramsey County,44.9537,-93.09
+St. Louis,MO,Missouri,St. Louis City,38.627,-90.1994
+Cincinnati,OH,Ohio,Hamilton County,39.1031,-84.512
+Pittsburgh,PA,Pennsylvania,Allegheny County,40.4406,-79.9959
+Greensboro,NC,North Carolina,Guilford County,36.0726,-79.792
+Anchorage,AK,Alaska,Anchorage Municipality,61.2181,-149.9003
+Plano,TX,Texas,Collin County,33.0198,-96.6989
+Lincoln,NE,Nebraska,Lancaster County,40.8136,-96.7026
+Orlando,FL,Florida,Orange County,28.5383,-81.3792
+Irvine,CA,California,Orange County,33.6846,-117.8265
+Newark,NJ,New Jersey,Essex County,40.7357,-74.1724
+Durham,NC,North Carolina,Durham County,35.994,-78.8986
+Chula Vista,CA,California,San Diego County,32.6401,-117.0842
+Toledo,OH,Ohio,Lucas County,41.6528,-83.5379
+Fort Wayne,IN,Indiana,Allen County,41.0793,-85.1394
+St. Petersburg,FL,Florida,Pinellas County,27.7676,-82.6403
+Laredo,TX,Texas,Webb County,27.5036,-99.5076
+Jersey City,NJ,New Jersey,Hudson County,40.7178,-74.0431
+Madison,WI,Wisconsin,Dane County,43.0731,-89.4012
+Chandler,AZ,Arizona,Maricopa County,33.3062,-111.8413
+Buffalo,NY,New York,Erie County,42.8864,-78.8784
+Lubbock,TX,Texas,Lubbock County,33.5779,-101.8552
+Scottsdale,AZ,Arizona,Maricopa County,33.4942,-111.9261
+Reno,NV,Nevada,Washoe County,39.5296,-119.8138
+Boise,ID,Idaho,Ada County,43.615,-116.2023
+Richmond,VA,Virginia,Richmond City,37.5407,-77.436
+Spokane,WA,Washington,Spokane County,47.6588,-117.426
+Salt Lake City,UT,Utah,Salt Lake County,40.7608,-111.891
+Des Moines,IA,Iowa,Polk County,41.5868,-93.625
+Little Rock,AR,Arkansas,Pulaski County,34.7465,-92.2896
+Birmingham,AL,Alabama,Jefferson County,33.5186,-86.8104
+Charleston,SC,South Carolina,Charleston County,32.7765,-79.9311
+Savannah,GA,Georgia,Chatham County,32.0809,-81.0912
+Knoxville,TN,Tennessee,Knox County,35.9606,-83.9207
+Burlington,VT,Vermont,Chittenden County,44.4759,-73.2121
+Portland,ME,Maine,Cumberland County,43.6591,-70.2568
+Manchester,NH,New Hampshire,Hillsborough County,42.9956,-71.4548
+Providence,RI,Rhode Island,Providence County,41.824,-71.4128
+Wilmington,DE,Delaware,New Castle County,39.7391,-75.5398
+Jackson,MS,Mississippi,Hinds County,32.2988,-90.1848
+Billings,MT,Montana,Yellowstone County,45.7833,-108.5007
+Cheyenne,WY,Wyoming,Laramie County,41.14,-104.8202
+Fargo,ND,North Dakota,Cass County,46.8772,-96.7898
+Sioux Falls,SD,South Dakota,Minnehaha County,43.5446,-96.7311
+Charleston,WV,West Virginia,Kanawha County,38.3498,-81.6326
