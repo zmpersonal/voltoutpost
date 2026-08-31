@@ -16,8 +16,8 @@ rank,city,state,state_abbr,county,score,solar_score,seasonal_score,hazard_resili
 15,Aurora,Colorado,CO,Arapahoe County,76,62,91,75,87,14927,0.751,15,6,refreshed from available public sources
 16,Wichita,Kansas,KS,Sedgwick County,76,64,94,71,87,15131,0.767,15,7,refreshed from available public sources
 17,Plano,Texas,TX,Collin County,76,68,100,58,87,15402,0.802,15,10,refreshed from available public sources
-18,Indianapolis,Indiana,IN,Marion County,75,62,91,71,87,14923,0.751,15,7,refreshed from available public sources
-19,Lubbock,Texas,TX,Lubbock County,75,68,100,54,87,15458,0.799,15,11,refreshed from available public sources
+18,Lubbock,Texas,TX,Lubbock County,75,68,100,54,87,15458,0.799,15,11,refreshed from available public sources
+19,Indianapolis,Indiana,IN,Marion County,74,62,91,66,87,14923,0.751,15,8,refreshed from available public sources
 20,Lincoln,Nebraska,NE,Lancaster County,73,60,90,58,100,14819,0.743,12,10,refreshed from available public sources
 21,Kansas City,Missouri,MO,Jackson County,73,62,92,58,91,14990,0.756,14,10,refreshed from available public sources
 22,Virginia Beach,Virginia,VA,Virginia Beach City,73,56,95,62,91,14515,0.773,14,9,refreshed from available public sources
@@ -60,7 +60,7 @@ rank,city,state,state_abbr,county,score,solar_score,seasonal_score,hazard_resili
 59,Wilmington,Delaware,DE,New Castle County,68,53,91,66,74,14226,0.751,18,8,refreshed from available public sources
 60,Sacramento,California,CA,Sacramento County,68,92,93,58,13,17342,0.76,32,10,refreshed from available public sources
 61,Oakland,California,CA,Alameda County,68,93,94,58,13,17420,0.766,32,10,refreshed from available public sources
-62,Reno,Nevada,NV,Washoe County,67,91,91,0,87,17247,0.753,15,36,refreshed from available public sources
+62,Reno,Nevada,NV,Washoe County,67,91,91,0,87,17247,0.753,15,37,refreshed from available public sources
 63,Corpus Christi,Texas,TX,Nueces County,67,68,100,24,87,15480,0.826,15,18,refreshed from available public sources
 64,San Jose,California,CA,Santa Clara County,67,93,94,50,13,17466,0.769,32,12,refreshed from available public sources
 65,Memphis,Tennessee,TN,Shelby County,66,67,97,16,96,15385,0.786,13,20,refreshed from available public sources
