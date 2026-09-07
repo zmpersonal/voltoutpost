@@ -32,9 +32,9 @@ rank,city,state,state_abbr,county,score,solar_score,seasonal_score,hazard_resili
 31,Cleveland,Ohio,OH,Cuyahoga County,72,51,89,79,83,14050,0.737,16,5,refreshed from available public sources
 32,Sioux Falls,South Dakota,SD,Minnehaha County,71,57,86,62,91,14546,0.722,14,9,refreshed from available public sources
 33,Colorado Springs,Colorado,CO,El Paso County,71,63,92,54,87,15017,0.758,15,11,refreshed from available public sources
-34,Des Moines,Iowa,IA,Polk County,71,59,88,58,91,14741,0.737,14,10,refreshed from available public sources
-35,Dallas,Texas,TX,Dallas County,71,67,100,41,87,15378,0.805,15,14,refreshed from available public sources
-36,Knoxville,Tennessee,TN,Knox County,71,58,96,50,96,14604,0.78,13,12,refreshed from available public sources
+34,Dallas,Texas,TX,Dallas County,71,67,100,41,87,15378,0.805,15,14,refreshed from available public sources
+35,Knoxville,Tennessee,TN,Knox County,71,58,96,50,96,14604,0.78,13,12,refreshed from available public sources
+36,Des Moines,Iowa,IA,Polk County,70,59,88,54,91,14741,0.737,14,11,refreshed from available public sources
 37,Billings,Montana,MT,Yellowstone County,70,60,83,58,91,14822,0.704,14,10,refreshed from available public sources
 38,Laredo,Texas,TX,Webb County,70,68,100,37,87,15450,0.826,15,15,refreshed from available public sources
 39,Madison,Wisconsin,WI,Dane County,70,57,86,71,74,14593,0.725,18,7,refreshed from available public sources
@@ -60,7 +60,7 @@ rank,city,state,state_abbr,county,score,solar_score,seasonal_score,hazard_resili
 59,Wilmington,Delaware,DE,New Castle County,68,53,91,66,74,14226,0.751,18,8,refreshed from available public sources
 60,Sacramento,California,CA,Sacramento County,68,92,93,58,13,17342,0.76,32,10,refreshed from available public sources
 61,Oakland,California,CA,Alameda County,68,93,94,58,13,17420,0.766,32,10,refreshed from available public sources
-62,Reno,Nevada,NV,Washoe County,67,91,91,0,87,17247,0.753,15,37,refreshed from available public sources
+62,Reno,Nevada,NV,Washoe County,67,91,91,0,87,17247,0.753,15,38,refreshed from available public sources
 63,Corpus Christi,Texas,TX,Nueces County,67,68,100,24,87,15480,0.826,15,18,refreshed from available public sources
 64,San Jose,California,CA,Santa Clara County,67,93,94,50,13,17466,0.769,32,12,refreshed from available public sources
 65,Memphis,Tennessee,TN,Shelby County,66,67,97,16,96,15385,0.786,13,20,refreshed from available public sources
