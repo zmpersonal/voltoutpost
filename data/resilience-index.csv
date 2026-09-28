@@ -87,10 +87,10 @@ rank,city,state,state_abbr,county,score,solar_score,seasonal_score,hazard_resili
 86,Santa Ana,California,CA,Orange County,59,97,100,12,13,17775,0.797,32,21,refreshed from available public sources
 87,Irvine,California,CA,Orange County,59,97,100,12,13,17768,0.798,32,21,refreshed from available public sources
 88,Jacksonville,Florida,FL,Duval County,59,63,100,0,87,15033,0.824,15,24,refreshed from available public sources
-89,Honolulu,Hawaii,HI,Honolulu County,59,82,100,41,0,16531,0.826,42,14,refreshed from available public sources
-90,Tampa,Florida,FL,Hillsborough County,59,60,100,3,87,14795,0.827,15,23,refreshed from available public sources
-91,St. Petersburg,Florida,FL,Pinellas County,59,60,100,3,87,14777,0.826,15,23,refreshed from available public sources
-92,Manchester,New Hampshire,NH,Hillsborough County,59,49,87,66,39,13900,0.726,26,8,refreshed from available public sources
+89,Tampa,Florida,FL,Hillsborough County,59,60,100,3,87,14795,0.827,15,23,refreshed from available public sources
+90,St. Petersburg,Florida,FL,Pinellas County,59,60,100,3,87,14777,0.826,15,23,refreshed from available public sources
+91,Manchester,New Hampshire,NH,Hillsborough County,59,49,87,66,39,13900,0.726,26,8,refreshed from available public sources
+92,Honolulu,Hawaii,HI,Honolulu County,58,82,100,37,0,16531,0.826,42,15,refreshed from available public sources
 93,Los Angeles,California,CA,Los Angeles County,57,97,99,0,13,17795,0.795,32,54,refreshed from available public sources
 94,Riverside,California,CA,Riverside County,57,97,99,0,13,17798,0.796,32,32,refreshed from available public sources
 95,Fargo,North Dakota,ND,Cass County,57,40,81,29,100,13212,0.696,12,17,refreshed from available public sources

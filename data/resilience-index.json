@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T15:56:59Z",
+  "generated_at": "2026-09-28T17:43:24Z",
   "method_version": "1.0",
   "cities": [
     {
@@ -3347,44 +3347,6 @@
       "rank": 88
     },
     {
-      "city": "Honolulu",
-      "state": "Hawaii",
-      "state_abbr": "HI",
-      "county": "Honolulu County",
-      "lat": 21.3099,
-      "lon": -157.8581,
-      "slug": "honolulu-hi",
-      "state_slug": "hawaii",
-      "score": 59,
-      "solar_score": 82,
-      "seasonal_score": 100,
-      "hazard_resilience_score": 41,
-      "affordability_score": 0,
-      "annual_solar_kwh_10kw": 16531,
-      "monthly_solar_kwh_10kw": [
-        1138,
-        1202,
-        1313,
-        1442,
-        1553,
-        1617,
-        1617,
-        1553,
-        1442,
-        1313,
-        1202,
-        1138
-      ],
-      "winter_to_average_ratio": 0.826,
-      "electricity_rate_cents_kwh": 42,
-      "fema_disasters_20yr": 14,
-      "data_status": "refreshed from available public sources",
-      "solar_source": "starter estimate",
-      "electricity_source": "starter estimate",
-      "hazard_source": "OpenFEMA declarations since 2006",
-      "rank": 89
-    },
-    {
       "city": "Tampa",
       "state": "Florida",
       "state_abbr": "FL",
@@ -3420,7 +3382,7 @@
       "solar_source": "starter estimate",
       "electricity_source": "starter estimate",
       "hazard_source": "OpenFEMA declarations since 2006",
-      "rank": 90
+      "rank": 89
     },
     {
       "city": "St. Petersburg",
@@ -3458,7 +3420,7 @@
       "solar_source": "starter estimate",
       "electricity_source": "starter estimate",
       "hazard_source": "OpenFEMA declarations since 2006",
-      "rank": 91
+      "rank": 90
     },
     {
       "city": "Manchester",
@@ -3496,6 +3458,44 @@
       "solar_source": "starter estimate",
       "electricity_source": "starter estimate",
       "hazard_source": "starter estimate",
+      "rank": 91
+    },
+    {
+      "city": "Honolulu",
+      "state": "Hawaii",
+      "state_abbr": "HI",
+      "county": "Honolulu County",
+      "lat": 21.3099,
+      "lon": -157.8581,
+      "slug": "honolulu-hi",
+      "state_slug": "hawaii",
+      "score": 58,
+      "solar_score": 82,
+      "seasonal_score": 100,
+      "hazard_resilience_score": 37,
+      "affordability_score": 0,
+      "annual_solar_kwh_10kw": 16531,
+      "monthly_solar_kwh_10kw": [
+        1138,
+        1202,
+        1313,
+        1442,
+        1553,
+        1617,
+        1617,
+        1553,
+        1442,
+        1313,
+        1202,
+        1138
+      ],
+      "winter_to_average_ratio": 0.826,
+      "electricity_rate_cents_kwh": 42,
+      "fema_disasters_20yr": 15,
+      "data_status": "refreshed from available public sources",
+      "solar_source": "starter estimate",
+      "electricity_source": "starter estimate",
+      "hazard_source": "OpenFEMA declarations since 2006",
       "rank": 92
     },
     {
