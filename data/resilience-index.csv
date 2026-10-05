@@ -27,9 +27,9 @@ rank,city,state,state_abbr,county,score,solar_score,seasonal_score,hazard_resili
 26,Fort Worth,Texas,TX,Tarrant County,72,67,100,45,87,15376,0.805,15,13,refreshed from available public sources
 27,Atlanta,Georgia,GA,Fulton County,72,60,100,54,87,14775,0.798,15,11,refreshed from available public sources
 28,Arlington,Texas,TX,Tarrant County,72,67,100,45,87,15374,0.805,15,13,refreshed from available public sources
-29,Columbus,Ohio,OH,Franklin County,72,53,91,75,83,14204,0.749,16,6,refreshed from available public sources
-30,Cincinnati,Ohio,OH,Hamilton County,72,54,92,75,83,14290,0.756,16,6,refreshed from available public sources
-31,Cleveland,Ohio,OH,Cuyahoga County,72,51,89,79,83,14050,0.737,16,5,refreshed from available public sources
+29,Cleveland,Ohio,OH,Cuyahoga County,72,51,89,79,83,14050,0.737,16,5,refreshed from available public sources
+30,Columbus,Ohio,OH,Franklin County,71,53,91,71,83,14204,0.749,16,7,refreshed from available public sources
+31,Cincinnati,Ohio,OH,Hamilton County,71,54,92,71,83,14290,0.756,16,7,refreshed from available public sources
 32,Sioux Falls,South Dakota,SD,Minnehaha County,71,57,86,62,91,14546,0.722,14,9,refreshed from available public sources
 33,Colorado Springs,Colorado,CO,El Paso County,71,63,92,54,87,15017,0.758,15,11,refreshed from available public sources
 34,Dallas,Texas,TX,Dallas County,71,67,100,41,87,15378,0.805,15,14,refreshed from available public sources
