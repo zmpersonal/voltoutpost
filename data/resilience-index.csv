@@ -25,9 +25,9 @@ rank,city,state,state_abbr,county,score,solar_score,seasonal_score,hazard_resili
 24,Toledo,Ohio,OH,Lucas County,73,50,88,83,83,14035,0.736,16,4,refreshed from available public sources
 25,Fort Wayne,Indiana,IN,Allen County,72,60,89,62,87,14792,0.741,15,9,refreshed from available public sources
 26,Fort Worth,Texas,TX,Tarrant County,72,67,100,45,87,15376,0.805,15,13,refreshed from available public sources
-27,Atlanta,Georgia,GA,Fulton County,72,60,100,54,87,14775,0.798,15,11,refreshed from available public sources
-28,Arlington,Texas,TX,Tarrant County,72,67,100,45,87,15374,0.805,15,13,refreshed from available public sources
-29,Cleveland,Ohio,OH,Cuyahoga County,72,51,89,79,83,14050,0.737,16,5,refreshed from available public sources
+27,Arlington,Texas,TX,Tarrant County,72,67,100,45,87,15374,0.805,15,13,refreshed from available public sources
+28,Cleveland,Ohio,OH,Cuyahoga County,72,51,89,79,83,14050,0.737,16,5,refreshed from available public sources
+29,Atlanta,Georgia,GA,Fulton County,71,60,100,50,87,14775,0.798,15,12,refreshed from available public sources
 30,Columbus,Ohio,OH,Franklin County,71,53,91,71,83,14204,0.749,16,7,refreshed from available public sources
 31,Cincinnati,Ohio,OH,Hamilton County,71,54,92,71,83,14290,0.756,16,7,refreshed from available public sources
 32,Sioux Falls,South Dakota,SD,Minnehaha County,71,57,86,62,91,14546,0.722,14,9,refreshed from available public sources
@@ -60,7 +60,7 @@ rank,city,state,state_abbr,county,score,solar_score,seasonal_score,hazard_resili
 59,Wilmington,Delaware,DE,New Castle County,68,53,91,66,74,14226,0.751,18,8,refreshed from available public sources
 60,Sacramento,California,CA,Sacramento County,68,92,93,58,13,17342,0.76,32,10,refreshed from available public sources
 61,Oakland,California,CA,Alameda County,68,93,94,58,13,17420,0.766,32,10,refreshed from available public sources
-62,Reno,Nevada,NV,Washoe County,67,91,91,0,87,17247,0.753,15,38,refreshed from available public sources
+62,Reno,Nevada,NV,Washoe County,67,91,91,0,87,17247,0.753,15,39,refreshed from available public sources
 63,Corpus Christi,Texas,TX,Nueces County,67,68,100,24,87,15480,0.826,15,18,refreshed from available public sources
 64,San Jose,California,CA,Santa Clara County,67,93,94,50,13,17466,0.769,32,12,refreshed from available public sources
 65,Memphis,Tennessee,TN,Shelby County,66,67,97,16,96,15385,0.786,13,20,refreshed from available public sources
@@ -72,10 +72,10 @@ rank,city,state,state_abbr,county,score,solar_score,seasonal_score,hazard_resili
 71,Minneapolis,Minnesota,MN,Hennepin County,65,43,84,66,83,13402,0.71,16,8,refreshed from available public sources
 72,Tulsa,Oklahoma,OK,Tulsa County,64,66,96,12,96,15285,0.779,13,21,refreshed from available public sources
 73,New Orleans,Louisiana,LA,Orleans Parish,64,71,100,0,96,15695,0.827,13,29,refreshed from available public sources
-74,Charleston,West Virginia,WV,Kanawha County,63,55,93,33,87,14365,0.762,15,16,refreshed from available public sources
-75,Charleston,South Carolina,SC,Charleston County,63,58,100,20,87,14678,0.805,15,19,refreshed from available public sources
-76,Philadelphia,Pennsylvania,PA,Philadelphia County,63,53,91,50,70,14205,0.749,19,12,refreshed from available public sources
-77,Orlando,Florida,FL,Orange County,63,61,100,16,87,14854,0.827,15,20,refreshed from available public sources
+74,Charleston,South Carolina,SC,Charleston County,63,58,100,20,87,14678,0.805,15,19,refreshed from available public sources
+75,Philadelphia,Pennsylvania,PA,Philadelphia County,63,53,91,50,70,14205,0.749,19,12,refreshed from available public sources
+76,Orlando,Florida,FL,Orange County,63,61,100,16,87,14854,0.827,15,20,refreshed from available public sources
+77,Charleston,West Virginia,WV,Kanawha County,62,55,93,29,87,14365,0.762,15,17,refreshed from available public sources
 78,Spokane,Washington,WA,Spokane County,62,68,80,8,100,15434,0.69,12,22,refreshed from available public sources
 79,Austin,Texas,TX,Travis County,62,72,100,0,87,15727,0.824,15,26,refreshed from available public sources
 80,Oklahoma City,Oklahoma,OK,Oklahoma County,62,67,97,0,96,15353,0.784,13,35,refreshed from available public sources
@@ -90,7 +90,7 @@ rank,city,state,state_abbr,county,score,solar_score,seasonal_score,hazard_resili
 89,Tampa,Florida,FL,Hillsborough County,59,60,100,3,87,14795,0.827,15,23,refreshed from available public sources
 90,St. Petersburg,Florida,FL,Pinellas County,59,60,100,3,87,14777,0.826,15,23,refreshed from available public sources
 91,Manchester,New Hampshire,NH,Hillsborough County,59,49,87,66,39,13900,0.726,26,8,refreshed from available public sources
-92,Honolulu,Hawaii,HI,Honolulu County,58,82,100,37,0,16531,0.826,42,15,refreshed from available public sources
+92,Honolulu,Hawaii,HI,Honolulu County,57,82,100,33,0,16531,0.826,42,16,refreshed from available public sources
 93,Los Angeles,California,CA,Los Angeles County,57,97,99,0,13,17795,0.795,32,54,refreshed from available public sources
 94,Riverside,California,CA,Riverside County,57,97,99,0,13,17798,0.796,32,32,refreshed from available public sources
 95,Fargo,North Dakota,ND,Cass County,57,40,81,29,100,13212,0.696,12,17,refreshed from available public sources
