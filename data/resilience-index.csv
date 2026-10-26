@@ -83,13 +83,13 @@ rank,city,state,state_abbr,county,score,solar_score,seasonal_score,hazard_resili
 82,Baltimore,Maryland,MD,Baltimore City,61,53,92,41,70,14271,0.754,19,14,refreshed from available public sources
 83,Jersey City,New Jersey,NJ,Hudson County,61,52,90,54,57,14128,0.743,22,11,refreshed from available public sources
 84,New York,New York,NY,New York County,60,52,90,62,43,14129,0.743,25,9,refreshed from available public sources
-85,Anaheim,California,CA,Orange County,59,97,99,12,13,17784,0.796,32,21,refreshed from available public sources
-86,Santa Ana,California,CA,Orange County,59,97,100,12,13,17775,0.797,32,21,refreshed from available public sources
-87,Irvine,California,CA,Orange County,59,97,100,12,13,17768,0.798,32,21,refreshed from available public sources
-88,Jacksonville,Florida,FL,Duval County,59,63,100,0,87,15033,0.824,15,24,refreshed from available public sources
-89,Tampa,Florida,FL,Hillsborough County,59,60,100,3,87,14795,0.827,15,23,refreshed from available public sources
-90,St. Petersburg,Florida,FL,Pinellas County,59,60,100,3,87,14777,0.826,15,23,refreshed from available public sources
-91,Manchester,New Hampshire,NH,Hillsborough County,59,49,87,66,39,13900,0.726,26,8,refreshed from available public sources
+85,Jacksonville,Florida,FL,Duval County,59,63,100,0,87,15033,0.824,15,24,refreshed from available public sources
+86,Tampa,Florida,FL,Hillsborough County,59,60,100,3,87,14795,0.827,15,23,refreshed from available public sources
+87,St. Petersburg,Florida,FL,Pinellas County,59,60,100,3,87,14777,0.826,15,23,refreshed from available public sources
+88,Manchester,New Hampshire,NH,Hillsborough County,59,49,87,66,39,13900,0.726,26,8,refreshed from available public sources
+89,Anaheim,California,CA,Orange County,58,97,99,8,13,17784,0.796,32,22,refreshed from available public sources
+90,Santa Ana,California,CA,Orange County,58,97,100,8,13,17775,0.797,32,22,refreshed from available public sources
+91,Irvine,California,CA,Orange County,58,97,100,8,13,17768,0.798,32,22,refreshed from available public sources
 92,Honolulu,Hawaii,HI,Honolulu County,57,82,100,33,0,16531,0.826,42,16,refreshed from available public sources
 93,Los Angeles,California,CA,Los Angeles County,57,97,99,0,13,17795,0.795,32,54,refreshed from available public sources
 94,Riverside,California,CA,Riverside County,57,97,99,0,13,17798,0.796,32,32,refreshed from available public sources
