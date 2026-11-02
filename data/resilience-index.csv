@@ -65,9 +65,9 @@ rank,city,state,state_abbr,county,score,solar_score,seasonal_score,hazard_resili
 64,San Jose,California,CA,Santa Clara County,67,93,94,50,13,17466,0.769,32,12,refreshed from available public sources
 65,Memphis,Tennessee,TN,Shelby County,66,67,97,16,96,15385,0.786,13,20,refreshed from available public sources
 66,Omaha,Nebraska,NE,Douglas County,66,60,89,29,100,14774,0.739,12,17,refreshed from available public sources
-67,San Antonio,Texas,TX,Bexar County,66,71,100,16,87,15642,0.826,15,20,refreshed from available public sources
-68,St. Paul,Minnesota,MN,Ramsey County,66,43,84,71,83,13405,0.711,16,7,refreshed from available public sources
-69,Miami,Florida,FL,Miami-Dade County,66,57,100,33,87,14576,0.826,15,16,refreshed from available public sources
+67,St. Paul,Minnesota,MN,Ramsey County,66,43,84,71,83,13405,0.711,16,7,refreshed from available public sources
+68,Miami,Florida,FL,Miami-Dade County,66,57,100,33,87,14576,0.826,15,16,refreshed from available public sources
+69,San Antonio,Texas,TX,Bexar County,65,71,100,12,87,15642,0.826,15,21,refreshed from available public sources
 70,Houston,Texas,TX,Harris County,65,71,100,12,87,15676,0.826,15,21,refreshed from available public sources
 71,Minneapolis,Minnesota,MN,Hennepin County,65,43,84,66,83,13402,0.71,16,8,refreshed from available public sources
 72,Tulsa,Oklahoma,OK,Tulsa County,64,66,96,12,96,15285,0.779,13,21,refreshed from available public sources
